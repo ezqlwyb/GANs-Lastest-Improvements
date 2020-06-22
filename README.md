@@ -1,5 +1,9 @@
 # Recent Progress of GANs
 
+GAN-ICLR-2020
+-----------------------------------
+Real or Not Real, that is the Question [[Paper]](https://arxiv.org/abs/2002.05512) [[Code]](https://github.com/kam1107/RealnessGAN)
+
 GAN-CVPR-2020
 -----------------------------------
 Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Daras_Your_Local_GAN_Designing_Two_Dimensional_Local_Attention_Mechanisms_for_CVPR_2020_paper.html) [[Code]](https://github.com/giannisdaras/ylg)

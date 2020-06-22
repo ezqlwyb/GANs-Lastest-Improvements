@@ -14,12 +14,11 @@ Watch your Up-Convolution: CNN Based Generative Deep Neural Networks are Failing
 
 A U-Net Based Discriminator for Generative Adversarial Networks [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Schonfeld_A_U-Net_Based_Discriminator_for_Generative_Adversarial_Networks_CVPR_2020_paper.html) [[Code]]()
 
-MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Karnewar_MSG-GAN_Multi-Scale_Gradients_for_Generative_Adversarial_Networks_CVPR_2020_paper.html) [[Code]](https://github.com/
-akanimax/msg-stylegan-tf)
+MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Karnewar_MSG-GAN_Multi-Scale_Gradients_for_Generative_Adversarial_Networks_CVPR_2020_paper.html) [[Code]](https://github.com/akanimax/msg-stylegan-tf)
 
 Noise Robust Generative Adversarial Networks [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Kaneko_Noise_Robust_Generative_Adversarial_Networks_CVPR_2020_paper.html) [[Code]](https://github.com/takuhirok/NR-GAN/)
 
-On Positive-Unlabeled Classification in GAN [[Paper]]() [[Code]]()
+On Positive-Unlabeled Classification in GAN [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Guo_On_Positive-Unlabeled_Classification_in_GAN_CVPR_2020_paper.html) [[Code]]()
 
 AdversarialNAS: Adversarial Neural Architecture Search for GANs [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Gao_AdversarialNAS_Adversarial_Neural_Architecture_Search_for_GANs_CVPR_2020_paper.html) [[Code]](https://github.com/chengaopro/AdversarialNAS)
 

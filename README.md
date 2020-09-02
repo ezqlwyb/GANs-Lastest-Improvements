@@ -2,7 +2,7 @@
 
 Arxiv
 ----------------------------------
-Intervention Generative Adversarial Networks [[Paper]](https://arxiv.org/pdf/2008.03712) [[Code]]()
+Intervention Generative Adversarial Networks [[Paper]](https://arxiv.org/pdf/2008.03712) [[Code]](https://github.com/LiamZ0302/IVGAN)
 
 Top-k training of GANs [[Paper]](https://arxiv.org/pdf/2002.06224)
 

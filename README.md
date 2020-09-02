@@ -1,5 +1,21 @@
 # Recent Progress of GANs
 
+Arxiv
+----------------------------------
+Intervention Generative Adversarial Networks [[Paper]](https://arxiv.org/pdf/2008.03712) [[Code]]()
+
+Top-k training of GANs [[Paper]](https://arxiv.org/pdf/2002.06224)
+
+A Mathematical Introduction to Generative Adversarial Networks [[Paper]](https://arxiv.org/pdf/2009.00169)
+
+[[Paper]]() [[Code]]()
+
+[[Paper]]() [[Code]]()
+
+[[Paper]]() [[Code]]()
+
+[[Paper]]() [[Code]]()
+
 GAN-ICLR-2020
 -----------------------------------
 Real or Not Real, that is the Question [[Paper]](https://arxiv.org/abs/2002.05512) [[Code]](https://github.com/kam1107/RealnessGAN)
